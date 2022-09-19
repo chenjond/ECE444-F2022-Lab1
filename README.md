@@ -14,3 +14,6 @@ https://github.com/hatton-jasper9/ECE444-F2022-Lab1.git
 ![](images/Activity4a.png)
 ![](images/Activity4c.png)
 ![](images/Activity4b.png)
+
+**Activity 5**
+![](images/Activity5.png)
