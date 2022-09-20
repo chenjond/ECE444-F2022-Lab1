@@ -31,3 +31,8 @@ https://github.com/chenjond/ECE444-F2022-EP.git
 
 ![](images/Activity7a.png)
 ![](images/Activity7b.png)
+
+**Activity 8**
+
+![](images/Activity8a.png)
+![](images/Activity8b.png)
